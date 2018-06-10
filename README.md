@@ -88,10 +88,6 @@ installing it.
 MAINTAINERS
 -----------
 
- * Rakesh James (https://www.drupal.org/u/rakeshgectcr)
- * Neeraj Kumar (https://www.drupal.org/u/neerajskydiver)
- * Mahaveer Singh Panwar (https://www.drupal.org/u/mahaveer003)
-
 Supporting Organizations:
  * Valuebound(https://www.drupal.org/valuebound)
  * Drupal BangaloreCommunity(https://www.drupal.org/drupal-bangalore-community)
