@@ -24,12 +24,18 @@ REQUIREMENTS
 The modules required are:
 
  * Commerce
- * Commerce_UI
+ * Commerce UI
  * Order
  * Rules
- * Payment
- * Ctools
+ * Chaos tools
  * Entity Token
+ * System
+ * Entity API
+ * Payment Order
+ * Customer
+ * Address Field
+ * Line Item
+ * Price
 
 
 INSTALLATION
