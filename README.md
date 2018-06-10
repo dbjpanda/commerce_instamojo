@@ -18,26 +18,6 @@ by adding details. Share with your audience, through a link. And start
 collecting payments in minutes.
 
 
-REQUIREMENTS
-------------
-
-The modules required are:
-
- * Commerce
- * Commerce UI
- * Order
- * Rules
- * Chaos tools
- * Entity Token
- * System
- * Entity API
- * Payment Order
- * Customer
- * Address Field
- * Line Item
- * Price
-
-
 INSTALLATION
 ------------
 
@@ -95,5 +75,4 @@ MAINTAINERS
 -----------
 
 Supporting Organizations:
- * Valuebound(https://www.drupal.org/valuebound)
- * Drupal BangaloreCommunity(https://www.drupal.org/drupal-bangalore-community)
+Google Summer Of Code 
