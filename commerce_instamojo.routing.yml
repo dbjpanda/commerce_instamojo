@@ -1,0 +1,15 @@
+# Drupal 8 commerce_instamojo.routing.yml snippet
+commerce_instamojo.response:
+  path: '/send_response_page'
+  defaults:
+    _controller: '\Drupal\Commerce_Instamojo\Controller\InstamojoController::pageSendResponseData'
+    _title: 'Send Response'
+  requirements:
+    _permission: 'access content'
+commerce_instamojo.page:
+  path: '/response_page'
+  defaults:
+    _controller: '\Drupal\Commerce_Instamojo\Controller\InstamojoController::pageResponseData'
+    _title: 'Send Response'
+  requirements:
+_permission: 'access content'
